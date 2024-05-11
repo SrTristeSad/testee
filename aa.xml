@@ -1,3 +1,19 @@
 <?xml version='1.0' encoding='utf8' standalone='yes'?>
 <items>
 </items>
+<item>
+    <title>María</title>
+    <link>plugin://plugin.video.elementum/play?uri=d</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//eLrbJ1Udlj9B9z76JGlkYEzgAw2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kXwklTBi3e213pcZtHrmjEwkk61.jpg</fanart>
+    <info>Romance melodrama set in 19th century Colombia.</info>
+    <genre>d</genre>
+</item>
+<item>
+    <title>Sayen: A Caçadora</title>
+    <link>plugin://plugin.video.elementum/play?uri=ss</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//AuTfo1lbE8s2Y8RVTmlbJAeLWPK.jpg</fanart>
+    <info>Percebendo que não consegue derrotar o Fisk sozinha, Sayen se junta a um grupo de resistência clandestino com um plano pra expor e dar um fim aos roubos descarados do Fisk de uma vez por todas.</info>
+    <genre>ss</genre>
+</item>

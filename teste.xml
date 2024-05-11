@@ -1,28 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-    <item>
-        <title>Pica-Pau: O Filme</title>
-        <link>plugin://plugin.video.elementum/play?uri=dd</link>
-        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hb1dzrqAw8K98jdaLqYUYZsizfH.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lkCDvf3QjXpAycm896oH1LRTK5X.jpg</fanart>
-        <info>O brincalhão e travesso Pica-Pau está metido em mais uma de suas divertidas brigas por território, e dessa vez os inimigos são o vigarista Lance Walters (Timothy Omundson) e sua namorada Brittany (Thaila Ayala). Eles estão determinados a construir a sua grande casa dos sonhos mas, para isso, precisam derrubar a casa do Pica-Pau, que promete não deixar barato.</info>
-        <genre>dd</genre>
-    </item>
-    <item>
-        <title>Pokémon: Detetive Pikachu</title>
-        <link>plugin://plugin.video.elementum/play?uri=ww</link>
-        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//p72utWsmz5ZAmvVQPUhovq0jFK3.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nDP33LmQwNsnPv29GQazz59HjJI.jpg</fanart>
-        <info>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente. Juntos, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... por enquanto.</info>
-        <genre>ww</genre>
-    </item>
-    <item>
-        <title>Interestelar</title>
-        <link>plugin://plugin.video.elementum/play?uri=ss</link>
-        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xJHokMbljvjADYdit5fK5VQsXEG.jpg</fanart>
-        <info>As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.</info>
-        <genre>ss</genre>
-    </item>
-        
-</items>
+<item>
+    <title>O Mariachi</title>
+    <link>plugin://plugin.video.elementum/play?uri=ss</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kPmLM0jXVKRwUUK69qzOEd9K8e2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//utckhnfdD1Z8cE5isr38a5LSTG8.jpg</fanart>
+    <info>Mariachi é um cantor popular, que vai de cidade em cidade apresentando seu repertório em troca de dinheiro para sobreviver. Ao chegar a um pequeno vilarejo, ele acreditava ser este seu dia de sorte, pois logo no segundo bar que visita já consegue trabalho como seresteiro. O que ele não sabe é que, no momento de sua chegada, pistoleiros locais estão à espera de um inimigo assassino, que veste preto e carrega consigo caixas de violão idênticas. Não demora muito para que Mariachi seja perseguido.</info>
+    <genre>ss</genre>
+</item>

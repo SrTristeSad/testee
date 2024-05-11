@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
 <item>
     <title>Super Mario Bros. O Filme</title>
     <link>plugin://plugin.video.elementum/play?uri=teste</link>
@@ -40,4 +38,27 @@
     <info>Como sempre, o Carteiro Paulo está feliz em cumprir seu dever de entregar cartas e encomendas pela cidade fictícia de Greendale. Um dia, são realizadas audições para o programa de talentos da TV "You're the One", em Greendale, que Paulo consegue aprovar. Como Paulo precisa ficar longe de Greendale enquanto participa do concurso, vários robôs Patbot 3000 são implantados para assumir as funções postais de Paulo. Isso logo acaba sendo um plano maligno para dominar o mundo, que Paulo deve agora parar.</info>
     <genre>ff</genre>
 </item>
+    <item>
+        <title>A Vingança de Maria</title>
+        <link>plugin://plugin.video.elementum/play?uri=ss</link>
+        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//d7KJjttE1IQECkKNmtunQTmmp6m.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4mCzkDzNvIJYIQscGFTeqZHNDra.jpg</fanart>
+        <info>Quando uma ex-assassina do cartel BlackRose se recusa a completar uma missão, a gangue ordena sua execução. Eles só não esperavam que ela fosse mais rápida e forjasse a própria morte, recomeçando uma nova vida. Mas o grupo de criminosos acaba descobrindo que ela está viva e passa a persegui-la.</info>
+        <genre>ss</genre>
+    <item>
+        <title>Pica-Pau: O Filme</title>
+        <link>plugin://plugin.video.elementum/play?uri=dd</link>
+        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//hb1dzrqAw8K98jdaLqYUYZsizfH.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lkCDvf3QjXpAycm896oH1LRTK5X.jpg</fanart>
+        <info>O brincalhão e travesso Pica-Pau está metido em mais uma de suas divertidas brigas por território, e dessa vez os inimigos são o vigarista Lance Walters (Timothy Omundson) e sua namorada Brittany (Thaila Ayala). Eles estão determinados a construir a sua grande casa dos sonhos mas, para isso, precisam derrubar a casa do Pica-Pau, que promete não deixar barato.</info>
+        <genre>dd</genre>
+    </item>
+    <item>
+        <title>Pokémon: Detetive Pikachu</title>
+        <link>plugin://plugin.video.elementum/play?uri=ww</link>
+        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//p72utWsmz5ZAmvVQPUhovq0jFK3.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nDP33LmQwNsnPv29GQazz59HjJI.jpg</fanart>
+        <info>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente. Juntos, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... por enquanto.</info>
+        <genre>ww</genre>
+    </item>
 </items>

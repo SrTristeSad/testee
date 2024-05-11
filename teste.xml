@@ -22,3 +22,19 @@
     <info>Ryan se junta a um grupo de ex-alunos, acreditando que eles estão envolvidos no desaparecimento de sua irmã. Desesperado para encontrá-la, ele se envolve em um ritual que abre portas para outra dimensão. Será que Ryan vai conseguir resgatar sua irmã?</info>
     <genre>s</genre>
 </item>
+<item>
+    <title>Jo</title>
+    <link>plugin://plugin.video.elementum/play?uri=dd</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oO916dKqqKIWcQjUnbWjEcLF47Y.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//cmPzTmg8zR2aWjjLyMUPOMGODdd.jpg</fanart>
+    <info>A writer accidentally shoots his blackmailer and tries to hide the body.</info>
+    <genre>dd</genre>
+</item>
+<item>
+    <title>Carteiro Paulo - O Filme</title>
+    <link>plugin://plugin.video.elementum/play?uri=fff</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xgglC10ULiTtmfIu60wDP4OCmiC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//x1zNrzip2FyjJKrqBhLwku0izrB.jpg</fanart>
+    <info>Como sempre, o Carteiro Paulo está feliz em cumprir seu dever de entregar cartas e encomendas pela cidade fictícia de Greendale. Um dia, são realizadas audições para o programa de talentos da TV "You're the One", em Greendale, que Paulo consegue aprovar. Como Paulo precisa ficar longe de Greendale enquanto participa do concurso, vários robôs Patbot 3000 são implantados para assumir as funções postais de Paulo. Isso logo acaba sendo um plano maligno para dominar o mundo, que Paulo deve agora parar.</info>
+    <genre>ff</genre>
+</item>

@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 <item>
     <title>Super Mario Bros. O Filme</title>
     <link>plugin://plugin.video.elementum/play?uri=teste</link>
@@ -60,5 +62,13 @@
         <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nDP33LmQwNsnPv29GQazz59HjJI.jpg</fanart>
         <info>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente. Juntos, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... por enquanto.</info>
         <genre>ww</genre>
+    </item>
+    <item>
+        <title>Interestelar</title>
+        <link>plugin://plugin.video.elementum/play?uri=ss</link>
+        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//xJHokMbljvjADYdit5fK5VQsXEG.jpg</fanart>
+        <info>As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.</info>
+        <genre>ss</genre>
     </item>
 </items>

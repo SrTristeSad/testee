@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 <item>
     <title>Super Mario Bros. O Filme</title>
     <link>plugin://plugin.video.elementum/play?uri=teste</link>
@@ -38,3 +40,4 @@
     <info>Como sempre, o Carteiro Paulo está feliz em cumprir seu dever de entregar cartas e encomendas pela cidade fictícia de Greendale. Um dia, são realizadas audições para o programa de talentos da TV "You're the One", em Greendale, que Paulo consegue aprovar. Como Paulo precisa ficar longe de Greendale enquanto participa do concurso, vários robôs Patbot 3000 são implantados para assumir as funções postais de Paulo. Isso logo acaba sendo um plano maligno para dominar o mundo, que Paulo deve agora parar.</info>
     <genre>ff</genre>
 </item>
+</items>

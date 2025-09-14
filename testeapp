@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <!-- Exemplo de um Filme -->
+    <item tipo="filme">
+        <titulo>O Segredo do Vale</titulo>
+        <descricao>Uma aventura épica em busca de um tesouro perdido que pode salvar uma vila inteira. Cheio de mistérios e reviravoltas.</descricao>
+        <capa>https://placehold.co/400x600/222/fff?text=Capa+Filme</capa>
+        <link>https://drive.google.com/file/d/exemplo_filme_123/view?usp=sharing</link>
+    </item>
+
+    <!-- Exemplo de uma Série -->
+    <item tipo="serie">
+        <titulo>Crônicas de Cybercity</titulo>
+        <descricao>No ano de 2077, um detetive investiga uma série de crimes tecnológicos que ameaçam a estrutura da cidade.</descricao>
+        <capa>https://placehold.co/400x600/333/fff?text=Capa+Série</capa>
+        <episodios>
+            <episodio>
+                <titulo>E01: A Sombra Digital</titulo>
+                <link>https://drive.google.com/file/d/exemplo_serie_e01/view?usp=sharing</link>
+            </episodio>
+            <episodio>
+                <titulo>E02: Conexões Quebradas</titulo>
+                <link>https://drive.google.com/file/d/exemplo_serie_e02/view?usp=sharing</link>
+            </episodio>
+            <episodio>
+                <titulo>E03: O Fantasma na Máquina</titulo>
+                <link>https://drive.google.com/file/d/exemplo_serie_e03/view?usp=sharing</link>
+            </episodio>
+        </episodios>
+    </item>
+
+    <!-- Outro exemplo de Filme -->
+    <item tipo="filme">
+        <titulo>A Viagem de Luna</titulo>
+        <descricao>Uma jovem astrônoma descobre um sinal misterioso vindo de uma galáxia distante e embarca na jornada de sua vida.</descricao>
+        <capa>https://placehold.co/400x600/444/fff?text=Outro+Filme</capa>
+        <link>https://drive.google.com/file/d/exemplo_filme_456/view?usp=sharing</link>
+    </item>
+</catalogo>
